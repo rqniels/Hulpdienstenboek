@@ -11,3 +11,6 @@ Samen zijn we ambulance RQ!
 Als lid van een ambulanceteam ga je het veld in om gewonde personen te helpen en medische zorg te verlenen. Dit doe je door meldingen te ontvangen via het meldingssysteem op je telefoon, daarom is het belangrijk dat je te allen tijde een telefoon bij je draagt wanneer je dienst hebt.
 
 Wanneer je ter plaatse aankomt, benader je de gewonde of bewusteloze persoon en maak je duidelijk dat je van de ambulance bent om de benodigde medische behandeling te bieden.
+
+!!! Tip 
+    Lees het heleboekje goed door.

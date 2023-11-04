@@ -1,4 +1,7 @@
 site_name: Hulpdiensten boek
+site_url: 'https://RQ.Ambualnce.nl/'
+site_description: 'Informatie Ambualnce RQ'
+site_author: 'Niels Smit'
 
 theme:
   name: material
