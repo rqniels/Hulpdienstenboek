@@ -45,4 +45,4 @@ Rang 11 --> 12 Minimaal 4 uur indienst zijn geweest. En je hebt minimaal 2 speci
 Rang 13 t/m 15 word je voor uitgeloot als er mensen nodig zijn voor die posities. 
 
 !!! attention "LET OP"
-    Je loon kan te allen tijde worden herzien.
+    U loon kan te allen tijde worden herzien.
