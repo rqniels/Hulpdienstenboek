@@ -39,4 +39,4 @@
 * In Dienst mag je niet samenwerken met criminelen 
 
 !!! failure " Let op "
-    De staffen staan hier niet bij. Als jij iets van een straf krijgt staat het daarin vermeld welke catogorie jij hebt gekregen
+    De staffen staan hier niet bij. Als jij iets van een straf krijgt staat het daarin vermeld welke catogorie jij hebt gekregen.
