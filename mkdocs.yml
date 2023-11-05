@@ -2,6 +2,8 @@ site_name: Hulpdiensten boek
 site_description: 'Informatie Ambualnce RQ'
 site_author: 'Niels Smit'
 
+copyright: rqniels • © alle rechten voorbehouden | 2023
+
 theme:
   name: material
 #   features:
