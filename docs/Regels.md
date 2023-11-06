@@ -1,12 +1,12 @@
 # Regels
 
 1. De straffen zijn onderverdeeld in zes categorieën (waarschuwingen):
-    * 1e Waarschuwing: Mondeling aanspreken en notitie in het personeel bestand.
-    * 2e Waarschuwing: schriftelijke waarschuwing.
-    * 3e Waarschuwing: Gefeliciteerd je mag weer op rang 1 beginnen.
-    * 4e Waarschuwing: Rang wordt herzien. Geld boete van 25.000 euro
-    * 5e Waarschuwing: Ontslagen
-    * 6e Waarschuwing: Ontslagen / Taken of ban
+    * 1e categorie: Mondeling aanspreken en notitie in het personeel bestand.
+    * 2e categorie: schriftelijke waarschuwing.
+    * 3e categorie: Gefeliciteerd je mag weer op rang 1 beginnen.
+    * 4e categorie: Rang wordt herzien. Geld boete van 25.000 euro
+    * 5e categorie: Ontslagen
+    * 6e categorie: Ontslagen / Taken of ban
 
     Waarschuwingen zijn 3 maanden geldig, daarna vervallen ze automatisch.
 
