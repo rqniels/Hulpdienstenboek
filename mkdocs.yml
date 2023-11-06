@@ -3,9 +3,10 @@ site_name: Hulpdiensten boek
 copyright: rqniels • © alle rechten voorbehouden | 2023
 
 theme:
+  language: nl
   name: material
 #   features:
-#     - navigation.tabs
+#     - toc.integrate 
   palette:
     - scheme: default
       toggle:

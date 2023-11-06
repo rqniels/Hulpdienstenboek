@@ -36,29 +36,34 @@ De OVD-G is het aanspreekpunt van iedereen in de porto, je word als ambulancier 
 
 ## Commands
 
-/eupambu
+==/eupambu==
+
 Dit commando opent het menu waarin je je werkkleding aan kan doen.
 
 
-/med (id)
+==/med (id)==
+
 Dit commando laat hoeveel BPM persoon nog heeft.
 
 
-/onderzoek (id)
+==/onderzoek (id)==
+
 Dit commando laat zien op welke manier de persoon buiten bewustzijn is geraakt.
 
-/bodybag
+==/bodybag==
+
 Dit commando stopt een overleden persoon in een lijkenzak.
 
-/brancard
+==/brancard==
+
 Dit commando haalt een brancard uit je ambulance wanneer je ernaast staat.
 
 # Porto
 Met /joinporto (nummer) kan je toetreden tot de gezamenlijke porto waarin je kan zien wat de statussen zijn van alle medewerkers.
-•	Status 1 – Beschikbaar
-•	Status 2 – Aanrijdend
-•	Status 3 – Op locatie
-•	Status 4 – Niet Beschikbaar
-•	Status 5 – Uitloggen uit de porto
-•	Status 6 – Vraag aan OVD’er
-•	Status 7 -  Urgente vraag aan OVD’er
+- Status 1 – Beschikbaar
+- Status 2 – Aanrijdend
+- Status 3 – Op locatie
+- Status 4 – Niet Beschikbaar
+- Status 5 – Uitloggen uit de porto
+- Status 6 – Vraag aan OVD’er
+- Status 7 -  Urgente vraag aan OVD’er
