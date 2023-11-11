@@ -61,9 +61,15 @@ Dit commando haalt een brancard uit je ambulance wanneer je ernaast staat.
 # Porto
 Met /joinporto (nummer) kan je toetreden tot de gezamenlijke porto waarin je kan zien wat de statussen zijn van alle medewerkers.
 - Status 1 – Beschikbaar
+
 - Status 2 – Aanrijdend
+
 - Status 3 – Op locatie
+
 - Status 4 – Niet Beschikbaar
+
 - Status 5 – Uitloggen uit de porto
+
 - Status 6 – Vraag aan OVD’er
+
 - Status 7 -  Urgente vraag aan OVD’er
