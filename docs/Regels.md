@@ -40,3 +40,6 @@
 
 !!! failure " Let op "
     De staffen staan hier niet bij. Als jij iets van een straf krijgt staat het daarin vermeld welke catogorie jij hebt gekregen.
+
+# Landen lifeliner
+![Kaart met risicogebieden](img/restricted_airspace.jpg)
