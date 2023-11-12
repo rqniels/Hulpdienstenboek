@@ -13,6 +13,7 @@
     Heb je binnen 3 maanden 2x 1e categorie --> 2e categorie
 
     Heb je binnen 3 maanden 3x 2e categorie --> 3e / 5e categorie
+
 ## Algemene regels
 * Toon respect naar je collega & andere inwoners
 * Join altijd de porto als je in dienst bent

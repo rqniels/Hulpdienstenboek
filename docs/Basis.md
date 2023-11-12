@@ -2,7 +2,7 @@
 Welkom bij het Ambulanceteam van Realistiq RP.
 Dit boekje is speciaal gemaakt voor de medewerkers van ons team zodat jullie jezelf alvast kunnen inlezen over wat wij binnen de ambulance uitvoeren.
 
-# Wat doen wij als ambulanceteam?
+## Wat doen wij als ambulanceteam?
 Als ambulancewerker ga je in het veld aan de slag om verwonde mensen te helpen en medische zorg te verlenen, je doet via het melding systeem in je telefoon, zorg daarom dat je te allen tijde een telefoon bij je draagt als je in dienst gaat!
 Eenmaal op locatie loop je op de verwonde/bewusteloze persoon af en maak je kenbaar dat je van de ambulance bent en komt om deze persoon te behandelen.
 Behandelen doen wij via ons F6 menu, daarin hebben wij de opties:
@@ -19,7 +19,7 @@ Bij een patiënt die niet bewusteloos is, Is vaak een kleine of grote behandelin
 
 Als een patiënt een steek of schotwond heeft moet deze (mits er 3 ambulancewerkers in dienst zijn) afgevoerd worden naar het ziekenhuis en daar worden geopereerd, als iemand in de ambulance word geladen doe je dit ten alle tijden met een brancard die je achterin je auto legt.
 
-# Soorten ambulanciers:Soorten ambulanciers
+## Soorten ambulanciers:Soorten ambulanciers
 Er zijn 3 soorten medewerkers binnenhet ambulanceteam.
 - De normale ambulancier in het licht blauw.
 - De MMT werkert in het oranje.
@@ -58,7 +58,7 @@ Dit commando stopt een overleden persoon in een lijkenzak.
 
 Dit commando haalt een brancard uit je ambulance wanneer je ernaast staat.
 
-# Porto
+## Porto
 Met /joinporto (nummer) kan je toetreden tot de gezamenlijke porto waarin je kan zien wat de statussen zijn van alle medewerkers.
 - Status 1 – Beschikbaar
 
