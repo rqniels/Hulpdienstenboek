@@ -25,3 +25,7 @@ Als jij de io examen niet hebt kan je vanaf rang 2 geen promotie meer krijgen.
 [IO Examen][example] Succes
 
   [example]: https://forms.gle/Ej4sWkTFZZd2QiDa6 "Examen"
+
+---------------------
+
+*Dit boek is gemaakt door [20-804]- Niels S. En met samen werking met Ambulance Directie*

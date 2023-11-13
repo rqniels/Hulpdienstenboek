@@ -10,3 +10,6 @@
 - [ ] Meer rangen toevoegen
 ## Discord / Hulpdiensenboek
 
+---------------------
+
+*Dit boek is gemaakt door [20-804]- Niels S. En met samen werking met Ambulance Directie*

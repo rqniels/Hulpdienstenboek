@@ -44,3 +44,7 @@ Dit is een voorbleedje om te laten zien hoe je het moet berekenen.
 | **Totaal**           | **€ 3000,-** | **€ 8400,-** |
 !!! attention "LET OP"
     De prijzen kunnen te allen tijde worden herzien
+
+---------------------
+
+*Dit boek is gemaakt door [20-804]- Niels S. En met samen werking met Ambulance Directie*

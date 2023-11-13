@@ -46,3 +46,7 @@ Rang 13 t/m 15 word je voor uitgeloot als er mensen nodig zijn voor die posities
 
 !!! attention "LET OP"
     U loon kan te allen tijde worden herzien.
+
+---------------------
+
+*Dit boek is gemaakt door [20-804]- Niels S. En met samen werking met Ambulance Directie*

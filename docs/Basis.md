@@ -73,3 +73,7 @@ Met /joinporto (nummer) kan je toetreden tot de gezamenlijke porto waarin je kan
 - Status 6 – Vraag aan OVD’er
 
 - Status 7 -  Urgente vraag aan OVD’er
+
+---------------------
+
+*Dit boek is gemaakt door [20-804]- Niels S. En met samen werking met Ambulance Directie*

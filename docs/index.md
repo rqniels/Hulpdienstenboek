@@ -7,7 +7,7 @@ Bedankt voor je toewijding en inzet. Laten we samen blijven streven naar uitmunt
 
 Samen zijn we ambulance RQ!
 
-## Wat is de rol van een ambulanceteam?:
+## Wat is de rol van een ambulanceteam?
 Als lid van een ambulanceteam ga je het veld in om gewonde personen te helpen en medische zorg te verlenen. Dit doe je door meldingen te ontvangen via het meldingssysteem op je telefoon, daarom is het belangrijk dat je te allen tijde een telefoon bij je draagt wanneer je dienst hebt.
 
 Wanneer je ter plaatse aankomt, benader je de gewonde of bewusteloze persoon en maak je duidelijk dat je van de ambulance bent om de benodigde medische behandeling te bieden.
@@ -15,3 +15,7 @@ Wanneer je ter plaatse aankomt, benader je de gewonde of bewusteloze persoon en 
 !!! Tip 
     Lees het heleboekje goed door.
 ![Ambualnce](img/232323232.png)
+
+---------------------
+
+*Dit boek is gemaakt door [20-804]- Niels S. En met samen werking met Ambulance Directie*

@@ -44,3 +44,7 @@
 
 # Landen lifeliner
 ![Kaart met risicogebieden](img/restricted_airspace.jpg)
+
+---------------------
+
+*Dit boek is gemaakt door [20-804]- Niels S. En met samen werking met Ambulance Directie*
