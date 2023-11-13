@@ -30,7 +30,11 @@ De ambulance hanteert een gedetailleerde tariefstructuur voor een breed scala aa
 | Operatie grote brandwond          | € 750,- | € 2000,- |
 | Operatie steekwond                 | € 1000,- | € 3000,- |
 | Operatie schotwond                | € 1500,- | € 4000,- |
+!!! attention "LET OP"
+    De prijzen kunnen te allen tijde worden herzien
 
+!!! warning "LET OP"
+    Het onderstaande tabel is een VOORBEELD
 ## Het berekenen
 
 Dit is een voorbleedje om te laten zien hoe je het moet berekenen.
@@ -42,8 +46,6 @@ Dit is een voorbleedje om te laten zien hoe je het moet berekenen.
 | Transport Ambulance | € 0,- | € 800,- |
 | Operatie schotwond                | € 1500,- | € 4000,- |
 | **Totaal**           | **€ 3000,-** | **€ 8400,-** |
-!!! attention "LET OP"
-    De prijzen kunnen te allen tijde worden herzien
 
 ---------------------
 
