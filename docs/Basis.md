@@ -19,7 +19,7 @@ Bij een patiënt die niet bewusteloos is, Is vaak een kleine of grote behandelin
 
 Als een patiënt een steek of schotwond heeft moet deze (mits er 3 ambulancewerkers in dienst zijn) afgevoerd worden naar het ziekenhuis en daar worden geopereerd, als iemand in de ambulance word geladen doe je dit ten alle tijden met een brancard die je achterin je auto legt.
 
-## Soorten ambulanciers:Soorten ambulanciers
+## Soorten ambulanciers.
 Er zijn 3 soorten medewerkers binnenhet ambulanceteam.
 - De normale ambulancier in het licht blauw.
 - De MMT werkert in het oranje.

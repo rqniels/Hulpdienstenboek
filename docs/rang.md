@@ -14,8 +14,8 @@ Hier kan je alle rangen vinden. En wat er wordt verwacht per rang.
 | 9 | Ambulance Assistent Geneeskundige | € 2600,- | Diensten draaien |
 | 10 | Ambulance Geneeskundige | € 2750,- | Diensten draaien |
 | 11 | Ambulance Hoofd Geneeskundige | € 2900,- | Diensten draaien |
-| 12 | Ambulance leiding | € 2900,- | Diensten draaien |
-| 13 | Ambulance hoofd trainer | € 3000,- | Diensten draaien |
+| 12 | Ambulance leiding | € 3000,- | Diensten draaien |
+| 13 | Ambulance hoofd trainer | € 3100,- | Diensten draaien |
 | 14 | Ambulance Teamleider | € 3250,- | Diensten draaien |
 | 15 | Ambulance baas | € 3500,- | Diensten draaien |
 
