@@ -6,18 +6,18 @@ Hier kan je alle rangen vinden. En wat er wordt verwacht per rang.
 | 1 | Ondersteunend personeel | € 1050,- | Diensten draaien |
 | 2 | Ambulance in opleiding | € 1350,- | Diensten draaien |
 | 3 | Ambulance Chauffeur | € 1600,- | Diensten draaien |
-| 4 | Ambulance Broeder | € 1700,- | Diensten draaien |
-| 5 | Ambulance Assistent verpleegkundige | € 1800,- | Diensten draaien | 
-| 6 | Ambulance  specialist | € 1900,- | Diensten draaien |
-| 7 | Ambulance  Arst | € 2000,- | Diensten draaien |
-| 8 | Ambulance chiruurg | € 2100,- | Diensten draaien |
-| 9 | Ambulance Assistent Geneeskundige | € 2200,- | Diensten draaien |
-| 10 | Ambulance Geneeskundige | € 2300,- | Diensten draaien |
-| 11 | Ambulance Hoofd Geneeskundige | € 2500,- | Diensten draaien |
-| 12 | Ambulance leiding | € 2600,- | Diensten draaien |
-| 13 | Ambulance hoofd trainer | € 2700,- | Diensten draaien |
-| 14 | Ambulance Teamleider | € 2800,- | Diensten draaien |
-| 15 | Ambulance baas | € 3000,- | Diensten draaien |
+| 4 | Ambulance Broeder | € 1800,- | Diensten draaien |
+| 5 | Ambulance Assistent verpleegkundige | € 2000,- | Diensten draaien | 
+| 6 | Ambulance  specialist | € 2150,- | Diensten draaien |
+| 7 | Ambulance  Arst | € 2300,- | Diensten draaien |
+| 8 | Ambulance chiruurg | € 2500,- | Diensten draaien |
+| 9 | Ambulance Assistent Geneeskundige | € 2600,- | Diensten draaien |
+| 10 | Ambulance Geneeskundige | € 2750,- | Diensten draaien |
+| 11 | Ambulance Hoofd Geneeskundige | € 2900,- | Diensten draaien |
+| 12 | Ambulance leiding | € 2900,- | Diensten draaien |
+| 13 | Ambulance hoofd trainer | € 3000,- | Diensten draaien |
+| 14 | Ambulance Teamleider | € 3250,- | Diensten draaien |
+| 15 | Ambulance baas | € 3500,- | Diensten draaien |
 
 ## Wat heb ik nodig voor promotie
 Rang 1 --> 2 minimaal 10 uur indienst zijn geweest.
