@@ -8,7 +8,14 @@
     * [x] Vanaf Rang 4
 - [ ] Cooldown na het reanimeren zodat personen niet meteen weg kunnen rennen
 - [ ] Meer rangen toevoegen
-## Discord / Hulpdiensenboek
+## Discord
+- [ ] Rollen
+- [ ] Klachten Fomulier
+
+## Hulpdienstenboek
+- [ ] IO Geslaagde in het boekje maken
+- [ ] Spelling fouten verbeteren
+- [ ] MMT Voertuigen
 
 ---------------------
 
