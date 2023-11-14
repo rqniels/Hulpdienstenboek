@@ -1,6 +1,6 @@
 # Regels
 
-1. De straffen zijn onderverdeeld in zes categorieën (waarschuwingen):
+1.  Als jij iets van een straf krijgt staat het daar in vermeld welke catogorie jij hebt gekregen. 
     * 1e categorie: Mondeling aanspreken en notitie in het personeel bestand.
     * 2e categorie: schriftelijke waarschuwing.
     * 3e categorie: Gefeliciteerd je mag weer op rang 1 beginnen.
