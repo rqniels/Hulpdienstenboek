@@ -30,7 +30,7 @@
 * Je rijd niemand dood
 * we luisteren altijd naar de politie
 * We helpen iedereen
-* Je ruimt je spullen op nadat je klaar bent
+* Je ruimt je spullen op nadat je klaar bent. ( Bij de Pooltafel neer leggen)
 * zet een goede roleplay neer
 * Onder rang 3 mag je nog UITDIENST schieten en andere criminelen dingen doen.
 * Zodra je op rang 3 zit en boven, mag je niet meer schieten of iemand vermoorden

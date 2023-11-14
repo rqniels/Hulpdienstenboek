@@ -1,7 +1,7 @@
 # Belangerijke links
 
 ## Operatie Formulier
-Het is belangerijk dat jij als je een operatie hebt gedaan deze formulier invuld. Omdit de toen moet je naar het blauw afgedrukte woord gaan. Deze formulier is verplicht om intevullen. 
+Het is belangerijk dat jij als je een operatie hebt gedaan deze formulier invuld. omdat de toen moet je naar het blauw afgedrukte woord gaan. Deze formulier is verplicht om in te vullen. 
 [Operatie Formulier][example] zorgt ervoor dat jij bonusen maar ook promoties KAN krijgen
 
   [example]: https://forms.gle/nGZwYHuwXyBSnxpx9 "Formulier"
@@ -19,12 +19,24 @@ Als jij de io examen niet hebt kan je vanaf rang 2 geen promotie meer krijgen.
     2.Goede roepnummer
 
     3.Alleen maken als jij rang 2 bent. 
-    
-
-
 [IO Examen][example] Succes
 
   [example]: https://forms.gle/Ej4sWkTFZZd2QiDa6 "Examen"
+
+    
+## Geslaagde IO Mensen
+| Naam | Punten |
+|:--------------------|:---------------:|
+| [20-216] | 89 |
+| [20-356] | 76 |
+| [20-409] | 77 |
+| [20-450] | 75 |
+| [20-621] | 75 |
+| [20-708] | 79 |
+| [20-803] | 96 |
+| [20-804] | 98 |
+| [20-901] | 98 |
+
 
 ---------------------
 
