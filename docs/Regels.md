@@ -38,6 +38,9 @@
 * In dienst mag je NIET gokken, uit dienst wel
 * Het is niet toegestaan in dienst te gaan puur om iemand te helpen met een wapen, en daarna uit dienst te gaan, je helpt iedereen gelijk.
 * In Dienst mag je niet samenwerken met criminelen 
+* minimaal 1 sprinter in de stad aanwezig moet zijn.
+
+Dus als je in dienst gaat en er is nog niemand in dienst ga je in een sprinter rond rijden en niet Bijv. in een A6 of ander voertuig. Als er iemand bij komt kun je in overleggen wie de Sprinter overneemt. 
 
 !!! failure " Let op "
     De staffen staan hier niet bij. Als jij iets van een straf krijgt staat het daarin vermeld welke catogorie jij hebt gekregen.

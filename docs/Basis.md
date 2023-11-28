@@ -74,6 +74,22 @@ Met /joinporto (nummer) kan je toetreden tot de gezamenlijke porto waarin je kan
 
 - Status 7 - Urgente vraag aan OVD’er
 
+## Keyboard binden
+
+Stap 1: Kijk welke spieren niet gebruikt worden bijvoorbeeld van 6 tot 0, F12, i, o, j
+Stap 2: F8 Spier indrukken
+
+Stap 3: 
+Bind keyboard 6 "me Pakt hartmonitor uit Ambulance" 
+
+Bind keyboard 7 "rdoors"
+
+Bind keyboard 8 "do Verbind hartmonitor aan patient"
+
+Bind keyboard 9 "e monteur"
+
+Bind keyboard 0 "do Plaatst drukverband op wond"
+
 ---------------------
 
 *Dit boek is ontwikkeld door [20-804] Niels S., in samenwerking met Ambulance Directie en [20-416] Jeffrey L.*
