@@ -76,4 +76,4 @@ Met /joinporto (nummer) kan je toetreden tot de gezamenlijke porto waarin je kan
 
 ---------------------
 
-*Dit boek is ontwikkeld door [20-804] Niels S., in samenwerking met Ambulance Directie en [20-416] Jeffrey L.*
+*Dit boek is ontwikkeld door [15-04 - ✦✦] Niels S., in samenwerking met Ambulance Directie en [10-12 - 𓆩𓆪] Jeffrey L.*

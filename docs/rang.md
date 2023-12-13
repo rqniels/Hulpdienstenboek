@@ -49,4 +49,4 @@ Rang 13 t/m 15 word je voor uitgeloot als er mensen nodig zijn voor die posities
 
 ---------------------
 
-*Dit boek is ontwikkeld door [20-804] Niels S., in samenwerking met Ambulance Directie en [20-416] Jeffrey L.*
+*Dit boek is ontwikkeld door [15-04 - ✦✦] Niels S., in samenwerking met Ambulance Directie en [10-12 - 𓆩𓆪] Jeffrey L.*
