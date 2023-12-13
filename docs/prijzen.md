@@ -1,5 +1,8 @@
 # Prijzen
-De ambulance hanteert een gedetailleerde tariefstructuur voor een breed schaalige aan diensten die zij met grote toewijding en expertise verlenen aan de gemeenschap. Deze tariefstructuur is met uiterste zorg samengesteld, rekening houdend met de complexe aard van de gezondheidszorg en de diverse behoeften van de patiënten, om ervoor te zorgen dat de prijzen op een eerlijke en rechtvaardige manier zijn vastgesteld.
+De ambulance hanteert een gedetailleerde tariefstructuur voor een breedschalige aan diensten die zij met grote 
+toewijding en expertise verlenen aan de gemeenschap. Deze tariefstructuur is met uiterste zorg samengesteld, 
+rekening houdend met de complexe aard van de gezondheidszorg en de diverse behoeften van de patiënten, 
+om ervoor te zorgen dat de prijzen op een eerlijke en rechtvaardige manier zijn vastgesteld.
 
 ## Interventies
 
