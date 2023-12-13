@@ -2,23 +2,23 @@
 Hier kan je alle rangen vinden. En wat er wordt verwacht per rang.
 
 | Rang | Naam rang | Loon | Taken |
-|:--------------------|:---------------:|:-----------------:|:-----------------:|
-| 0 | Ondersteunend personeel | € 1050,- | Diensten draaien |
-| 1 | Ambulance in opleiding | € 1200,- | Diensten draaien |
-| 2 | Ambulance Chauffeur | € 1350,- | Diensten draaien |
-| 3 | Ambulance Broeder | € 1500,- | Diensten draaien |
-| 4 | Ambulance Assistent verpleegkundige | € 1650,- | Diensten draaien | 
-| 5 | Ambulance verpleegkundige | € 1800,- | Diensten draaien | 
-| 6 | Ambulance  specialist | € 1950,- | Diensten draaien |
-| 7 | Ambulance  Arst | € 2100,- | Diensten draaien |
-| 8 | Ambulance chirurg | € 2250,- | Diensten draaien |
-| 9 | Ambulance Assistent Geneeskundige | € 2400,- | Diensten draaien |
-| 10 | Ambulance Geneeskundige | € 2550,- | Diensten draaien |
-| 11 | Ambulance Hoofd Geneeskundige | € 2700,- | Diensten draaien |
-| 12 | Ambulance leiding | € 2800,- | Diensten draaien |
-| 13 | Ambulance hoofd trainer | € 2850,- | Diensten draaien |
-| 14 | Ambulance Teamleider | € 2900,- | Diensten draaien |
-| 15 | Ambulance baas | € 3000,- | Diensten draaien |
+|:-----|:---------------:|:-----------------:|:-----------------:|
+| 1    | Ondersteunend personeel | € 1050,- | Diensten draaien |
+| 2    | Ambulance in opleiding | € 1200,- | Diensten draaien |
+| 3    | Ambulance Chauffeur | € 1350,- | Diensten draaien |
+| 4    | Ambulance Broeder | € 1500,- | Diensten draaien |
+| 5    | Ambulance Assistent verpleegkundige | € 1650,- | Diensten draaien | 
+| 6    | Ambulance verpleegkundige | € 1800,- | Diensten draaien | 
+| 7    | Ambulance  specialist | € 1950,- | Diensten draaien |
+| 8    | Ambulance  Arst | € 2100,- | Diensten draaien |
+| 9    | Ambulance chirurg | € 2250,- | Diensten draaien |
+| 10   | Ambulance Assistent Geneeskundige | € 2400,- | Diensten draaien |
+| 11   | Ambulance Geneeskundige | € 2550,- | Diensten draaien |
+| 12   | Ambulance Hoofd Geneeskundige | € 2700,- | Diensten draaien |
+| 13   | Ambulance leiding | € 2800,- | Diensten draaien |
+| 14   | Ambulance hoofd trainer | € 2850,- | Diensten draaien |
+| 15   | Ambulance Teamleider | € 2900,- | Diensten draaien |
+| 16   | Ambulance baas | € 3000,- | Diensten draaien |
 
 ## Wat heb ik nodig voor promotie
 Rang 1 --> 2 minimaal 10 uur indienst zijn geweest.
