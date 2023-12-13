@@ -6,7 +6,7 @@ om ervoor te zorgen dat de prijzen op een eerlijke en rechtvaardige manier zijn 
 
 ## Interventies
 
-| Voorij / vervoer kosten | Prijs verzekerd | Prijs onverzekerd |
+| Voorij- en/of vervoerskosten | Prijs verzekerd | Prijs onverzekerd |
 |:--------------------|:---------------:|:-----------------:|
 | Behandeling | € 750,- | € 1500,- |
 | Reanimeren | € 1500,- | € 3000,- |
