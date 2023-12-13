@@ -27,7 +27,7 @@
 * Hou je aan de verkeersregels voor zover mogelijk
 * Naar meldingen rijden we altijd met de sirene aan
 * wanneer je iemand achterin hebt, probeer rustig te rijden (houd rekening met je patiënt)
-* Je veroorzaakt geen (zwaar) letstel
+* Je veroorzaakt geen (zwaar) letsel
 * we volgen bevelen van de politie altijd op
 * We helpen iedereen
 * Je ruimt je spullen op nadat je klaar bent. (Bij de Pooltafel neer leggen)
