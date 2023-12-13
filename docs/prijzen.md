@@ -1,9 +1,12 @@
 # Prijzen
-De ambulance hanteert een gedetailleerde tariefstructuur voor een breed schaalige aan diensten die zij met grote toewijding en expertise verlenen aan de gemeenschap. Deze tariefstructuur is met uiterste zorg samengesteld, rekening houdend met de complexe aard van de gezondheidszorg en de diverse behoeften van de patiënten, om ervoor te zorgen dat de prijzen op een eerlijke en rechtvaardige manier zijn vastgesteld.
+De ambulance hanteert een gedetailleerde tariefstructuur voor een breedschalige aan diensten die zij met grote 
+toewijding en expertise verlenen aan de gemeenschap. Deze tariefstructuur is met uiterste zorg samengesteld, 
+rekening houdend met de complexe aard van de gezondheidszorg en de diverse behoeften van de patiënten, 
+om ervoor te zorgen dat de prijzen op een eerlijke en rechtvaardige manier zijn vastgesteld.
 
 ## Interventies
 
-| Voorij / vervoer kosten | Prijs verzekerd | Prijs onverzekerd |
+| Voorij- en/of vervoerskosten | Prijs verzekerd | Prijs onverzekerd |
 |:--------------------|:---------------:|:-----------------:|
 | Behandeling | € 750,- | € 1500,- |
 | Reanimeren | € 1500,- | € 3000,- |
@@ -13,4 +16,4 @@ De ambulance hanteert een gedetailleerde tariefstructuur voor een breed schaalig
 | Psychologische hulp | € 2.500,- | € 5000,- |
 ---------------------
 
-*Dit boek is ontwikkeld door [20-804] Niels S., in samenwerking met Ambulance Directie en [20-416] Jeffrey L.*
+*Dit boek is ontwikkeld door [15-04] Niels S., in samenwerking met Ambulance Directie en [10-12] Jeffrey L.*
