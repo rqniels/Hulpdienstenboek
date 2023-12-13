@@ -1,16 +1,16 @@
 # Belangerijke links
 
 ## Operatie Formulier
-Het is belangerijk dat jij als je een operatie hebt gedaan deze formulier invuld. omdat de toen moet je naar het blauw afgedrukte woord gaan. Deze formulier is verplicht om in te vullen. 
-[Operatie Formulier][example] zorgt ervoor dat jij bonusen maar ook promoties KAN krijgen
+Het is belangrijk dat je dit formulier na een operatie invult. Dit formulier is verplicht om in te vullen en wordt 
+gebruikt voor je bonussen en promoties Het formulier is te  bereiken via de volgende link: [Operatie Formulier][example]
 
   [example]: https://forms.gle/nGZwYHuwXyBSnxpx9 "Formulier"
 
 ## IO Examen
 Sinds kort hebben wij de IO examens weer ingevoerd.
-Dit is een examen die jouw medische kennis gaat testen.
-Het is Verplicht om deze te maken als jij rang 2 of hoger bent.
-Als jij de io examen niet hebt kan je vanaf rang 2 geen promotie meer krijgen.
+Dit is een examen die jouw medische kennis gaat beoordelen.
+Het is verplicht om deze te maken als jij rang 2 of hoger bent.
+Als jij de IO examen niet hebt, kun je vanaf rang 2 geen promotie meer krijgen.
 !!! failure " Let op "
     Zorg er voor dat je de volgende punten goed hebt. 
 
