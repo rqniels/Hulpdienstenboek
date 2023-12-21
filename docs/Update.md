@@ -7,14 +7,14 @@
 - [x] Kloterstraf ook voor ambulance beschikbaar maken. (Wel vanaf de wat hogere rangen)
     * [x] Vanaf Rang 3
 - [ ] Cooldown na het reanimeren zodat personen niet meteen weg kunnen rennen
-- [ ] Meer rangen toevoegen
+- [x] Meer rangen toevoegen
 ## Discord
-- [ ] Rollen
+- [x] Rollen
 - [ ] Klachten Fomulier
 
 ## Hulpdienstenboek
-- [ ] IO Geslaagde in het boekje maken
-- [ ] Spelling fouten verbeteren
+- [x] IO Geslaagde in het boekje maken
+- [x] Spelling fouten verbeteren
 - [ ] MMT Voertuigen
 
 ---------------------
