@@ -1,68 +1,79 @@
 # Regels
 
-1.  Als jij iets van een straf krijgt staat het daar in vermeld welke categorie jij hebt gekregen 
-    * 1e categorie: Mondeling aanspreken en notitie in het personeelsbestand
-    * 2e categorie: schriftelijke waarschuwing
-    * 3e categorie: Je wordt gedemoveerd naar de eerste rang.
-    * 4e categorie: Rang wordt herzien. Geld boete van minimaal 10.000 euro
-    * 5e categorie: Ontslag
-    * 6e categorie: Ontslag / Taken of ban
+## Categorieën van straffen
+   * 1e categorie: Mondeling aanspreken en notitie in het personeelsbestand.
+   * 2e categorie: Schriftelijke waarschuwing.
+   * 3e categorie: Demotie naar de eerste rang.
+   * 4e categorie: Herziening van rang. Geldboete van minimaal 10.000 euro.
+   * 5e categorie: Ontslag.
+   * 6e categorie: Ontslag/Taken of ban.
 
-    Waarschuwingen zijn 3 maanden geldig, daarna vervallen ze automatisch.
+   Waarschuwingen zijn 3 maanden geldig; daarna vervallen ze automatisch.
 
-    Heb je binnen 3 maanden 2x 1e categorie --> 2e categorie
+   Bij twee keer een 1e categorie binnen 3 maanden volgt een 2e categorie.
+   
+   Bij drie keer een 2e categorie binnen 3 maanden volgt een 3e/5e categorie.
 
-    Heb je binnen 3 maanden 3x 2e categorie --> 3e / 5e categorie
 ## Algemene regels
-### Toon respect 
-Toon respect naar je collega's & andere inwoners van deze stad. 
-Bij een overtreding van de regel wordt de overtreder bestraft met een bestraffing van de 1e categorie.
-### Porto indienst 
-Join altijd de porto als je in dienst bent
-Bij een overtreding van de regel wordt de overtreder bestraft met een bestraffing van de 1e categorie.
-### Uren invullen
-Vul altijd je uren in als je indienst bent geweest.
-Bij een overtreding van de regel wordt de overtreder bestraft met een bestraffing van de 4e categorie.
-### Factuur sturen 
-Stuur altijd een factuur naar de betrokken persoon, met uitzondering van diegenen die werkzaam zijn bij de politie of ANWB; zij zijn vrijgesteld van facturering. Overtreding van deze regel resulteert in een bestraffing van de 2e categorie.
-### Verkeer regels 
-Rij gewoon netjes is de stad ook als je met prio 1 rijd. 
-Bij een overtreding van de regel wordt de overtreder bestraft met een bestraffing van de 2e categorie.
-### Politie 
-Volg bevelen van politie altijd op
-Bij een overtreding van de regel wordt de overtreder bestraft met een bestraffing van de 2e categorie.
-### Spullen opruimen 
-Ruim je voertuigen altijd netjes op in de garage zodat ze weg zijn. En de verbanddozen leggen we weg bij de pooltafel in de personeel kamer.
-Bij een overtreding van de regel wordt de overtreder bestraft met een bestraffing van de 2e categorie.
-### Roleplay 
-Zet altijd een goede roleplay ookal gaat de persoon ooc blijf altijd netjes en probeer niet de held uit te hangen. 
-Bij een overtreding van de regel wordt de overtreder bestraft met een bestraffing van de 3e categorie.
-### Crimineel zijn
-Binnen de ambulance mag je tot en met rang 3 crimineel zijn alleen als je uitdienst bent. 
-Bij een overtreding van de regel wordt de overtreder bestraft met een bestraffing van de 5e categorie.
-### Gokken
-In dienst mag je NIET gokken, uit dienst wel
-Bij een overtreding van de regel wordt de overtreder bestraft met een bestraffing van de 3e categorie.
-### 1 Iemand helpen
-Het is niet toegestaan in dienst te gaan puur om iemand te helpen met een wapen, en daarna uit dienst te gaan, je helpt iedereen gelijk.
-Bij een overtreding van de regel wordt de overtreder bestraft met een bestraffing van de 3e categorie.
-### Sammenwerken met criminelen 
-In dienst mag je niet samenwerken met criminelen 
-Bij een overtreding van de regel wordt de overtreder bestraft met een bestraffing van de 5e categorie.
-### 1 Sprinter 
-minimaal 1 sprinter in de stad aanwezig moet zijn.
-Dus als je in dienst gaat en er is nog niemand in dienst ga je in een sprinter rond rijden en niet in een A6 of 
-ander voertuig. Als er iemand bij komt, mag je overleggen wie de Sprinter overneemt. 
-Bij een overtreding van de regel wordt de overtreder bestraft met een bestraffing van de 1e categorie.
-### Afwezig maar indienst
-Stel voor je moet even weg maar je blijft wel in de stad in dienst. Is dat geen probleem als het maar niet langer dan 5 min is. Zorg er ook voor dat je het even vermeld aan je andere collega;s en voor je naam in de discord het even zet. Ben je langer dan 10 min afwezig en of je niet afgemeld. De overtreding van de regel wordt de overtreder bestraft met een bestraffing van de 4e categorie.
 
-!!! failure " Let op "
-    De straffen staan hier. Als er straffen hier niet in staan betekent niet dat die er niet zijn
+### Toon respect
+Toon respect naar je collega's en andere inwoners van de stad.
+Overtreding van deze regel resulteert in een bestraffing van de 1e categorie.
+
+### Porto in dienst
+Altijd de porto gebruiken wanneer je in dienst bent.
+Overtreding van deze regel resulteert in een bestraffing van de 1e categorie.
+
+### Uren invullen
+Altijd je uren invullen als je in dienst bent geweest.
+Overtreding van deze regel resulteert in een bestraffing van de 4e categorie.
+
+### Factuur sturen
+Altijd een factuur sturen naar de betrokken persoon, behalve voor degenen werkzaam bij de politie of ANWB; zij zijn vrijgesteld van facturering. Overtreding van deze regel resulteert in een bestraffing van de 2e categorie.
+
+### Verkeersregels
+Rij altijd netjes in de stad, zelfs als je met prio 1 rijdt.
+Overtreding van deze regel resulteert in een bestraffing van de 2e categorie.
+
+### Politie
+Volg altijd de bevelen van de politie op.
+Overtreding van deze regel resulteert in een bestraffing van de 2e categorie.
+
+### Spullen opruimen
+Ruim je voertuigen altijd netjes op in de garage zodat ze weg zijn. Verbanddozen leggen we weg bij de pooltafel in de personeelskamer.
+Overtreding van deze regel resulteert in een bestraffing van de 2e categorie.
+
+### Roleplay
+Zorg altijd voor goede roleplay, zelfs als de situatie out-of-character is. Blijf altijd netjes en probeer niet de held uit te hangen.
+Overtreding van deze regel resulteert in een bestraffing van de 3e categorie.
+
+### Crimineel zijn
+Binnen de ambulance mag je tot en met rang 3 crimineel zijn, maar alleen als je uit dienst bent.
+Overtreding van deze regel resulteert in een bestraffing van de 5e categorie.
+
+### Gokken
+In dienst mag je NIET gokken; uit dienst wel.
+Overtreding van deze regel resulteert in een bestraffing van de 3e categorie.
+
+### 1 Iemand helpen
+Het is niet toegestaan in dienst te gaan puur om iemand te helpen met een wapen en daarna uit dienst te gaan. Je helpt iedereen gelijk.
+Overtreding van deze regel resulteert in een bestraffing van de 3e categorie.
+
+### Samenwerken met criminelen
+In dienst mag je niet samenwerken met criminelen.
+Overtreding van deze regel resulteert in een bestraffing van de 5e categorie.
+
+### 1 Sprinter
+Er moet minimaal 1 sprinter in de stad aanwezig zijn. Als je in dienst gaat en er is nog niemand in dienst, ga je in een sprinter rondrijden en niet in een A6 of ander voertuig. Als er iemand bij komt, mag je overleggen wie de sprinter overneemt.
+Overtreding van deze regel resulteert in een bestraffing van de 1e categorie.
+
+### Afwezig maar in dienst
+Als je even weg moet maar in de stad blijft en in dienst bent, is dat geen probleem, maar het mag niet langer dan 5 minuten duren. Zorg ervoor dat je het meldt aan je andere collega's en je naam in de Discord zet. Ben je langer dan 10 minuten afwezig en niet afgemeld, dan resulteert dit in een bestraffing van de 4e categorie.
+
+!!! failure "Let op"
+De straffen staan hier. Als er straffen hier niet instaan, betekent dat niet dat ze niet bestaan.
 
 # Landen lifeliner
 ![Kaart met risicogebieden](img/restricted_airspace.jpg)
 
----------------------
-
-*Dit boek is ontwikkeld door [15-04] Niels S., in samenwerking met Ambulance Directie en [10-12] Jeffrey L.*
+*Dit boek is ontwikkeld door [15-04 - ✦✦ ] Niels S., in samenwerking met Ambulance Directie en [10-12 - 𓆩𓆪 ] Jeffrey L.*

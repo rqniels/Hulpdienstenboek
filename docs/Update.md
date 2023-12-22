@@ -19,4 +19,4 @@
 
 ---------------------
 
-*Dit boek is ontwikkeld door [15-04] Niels S., in samenwerking met Ambulance Directie en [10-12] Jeffrey L.*
+*Dit boek is ontwikkeld door [15-04 - ✦✦ ] Niels S., in samenwerking met Ambulance Directie en [10-12 - 𓆩𓆪 ] Jeffrey L.*

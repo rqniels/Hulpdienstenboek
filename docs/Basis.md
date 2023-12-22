@@ -1,95 +1,65 @@
-# Basis Ambulance 
-Welkom bij het Ambulanceteam van Realistiq RP.
-Dit boekje is speciaal gemaakt voor de medewerkers van ons team zodat jullie jezelf alvast kunnen inlezen over wat wij binnen de ambulance uitvoeren.
+# Realistiq RP Ambulanceteam Handboek
 
-## Wat doen wij als ambulanceteam?
-Als ambulancewerker ga je in het veld aan de slag om verwonde mensen te helpen en medische zorg te verlenen, je doet via het meldingssysteem in je telefoon, zorg daarom dat je te allen tijde een telefoon bij je draagt als je in dienst gaat!
-Eenmaal op locatie loop je op de verwonde/bewusteloze persoon af en maak je kenbaar dat je van de ambulance bent en komt om deze persoon te behandelen.
-Behandelen doen wij via ons F6 menu, daarin hebben wij de opties:
+**Welkom bij het Ambulanceteam van Realistiq RP.** Dit handboek is met zorg samengesteld voor de gewaardeerde medewerkers van ons team, zodat jullie je kunnen verdiepen in de taken en verantwoordelijkheden binnen de ambulance.
+
+## Rol van het Ambulanceteam
+Als toegewijd ambulancewerker betreed je het veld om gewonden te helpen en medische zorg te verlenen. Via het meldingssysteem op je telefoon ontvang je opdrachten; zorg ervoor dat je te allen tijde een telefoon bij je draagt wanneer je dienst hebt. Op locatie maak je jezelf bekend als lid van het ambulancepersoneel en start je met de benodigde behandelingen via ons F6-menu, waaronder:
+
 - Interacties
-  - Reanimeren
-  - Kleine behandeling
-  - Grote behandeling
+    *  Reanimeren
+    * Kleine behandeling
+    *  Grote behandeling
 - Zorgverzekering
 - Objecten spawnen
 
-Als je op een melding aankomt waarbij de persoon bewusteloos ligt moet je altijd eerst je hartmonitor uit je ambulance pakken en deze verbinden met de patiënt, pas als je dit hebt gedaan en ziet dat de hartslag boven de 6-BPM is kan je beginnen met een reanimatie.
+Bij bewusteloze patiënten dien je eerst de hartmonitor uit je ambulancepak te halen en deze aan de patiënt te koppelen. Pas als de hartslag boven de 6 BPM is, start je met reanimeren.
 
-Bij een patiënt die niet bewusteloos is, Is vaak een kleine of grote behandeling nodig, wij gebruiken hedendaags alleen nog een grote behandeling.
+In geval van niet-bewusteloze patiënten vereist dit vaak een kleine of grote behandeling, waarbij we tegenwoordig alleen nog de grote behandeling gebruiken.
 
-Als een patiënt een steek of schotwond heeft moet deze (mits er 3 ambulancewerkers in dienst zijn) afgevoerd worden naar het ziekenhuis en daar worden geopereerd, als iemand in de ambulance wordt geladen doe je dit te allen tijde met een brancard die je achterin je auto legt.
+Bij steek- of schotwonden moet de patiënt, indien er drie ambulancewerkers in dienst zijn, naar het ziekenhuis worden vervoerd voor een operatie. Het inladen van een patiënt in de ambulance gebeurt altijd met behulp van een brancard die je in de achterbak plaatst.
 
-## Soorten ambulanciers.
-Er zijn 3 soorten medewerkers binnen het ambulanceteam.
-- De normale ambulancier in het licht blauw.
+## Soorten Ambulanciers
+Binnen het ambulanceteam zijn er drie soorten medewerkers:
+- De normale ambulancier in het lichtblauw.
 - De MMT in het oranje.
 - De OVD-G in het groen.
 
-## De Normale Ambulancier.
-De Ambulancier die rondrijdt in een sprinter en mensen daar en op dat moment helpt met lichte verwondingen, en mensen met letsel en/of mensen met schot/steekwonden meeneemt naar het ziekenhuis voor een speciale behandeling. Deze werkers worden aangestuurd door de OVD-G of de hoogste in de porto.
+### De Normale Ambulancier
+De normale ambulancier rijdt in een sprinter en biedt ter plaatse hulp bij lichte verwondingen. Daarnaast vervoert deze ambulancier personen met letsel of schot-/steekwonden naar het ziekenhuis voor gespecialiseerde behandeling. De werkers worden aangestuurd door de OVD-G of de hoogste in de porto.
 
-## De MMT-Ambulancier.
-De MMT’er (Mobiel Medische Team) rijdt in voertuigen als de Volvo, motor of vliegt in de Traumaheli. Deze Medewerker kan mensen met letsel, en lichte verwondingen ter plaatsen zorg aanbieden, voor erge wonden en groot letsel moet ook de MMT’er de persoon behandelen in het ziekenhuis.
+### De MMT-Ambulancier
+De MMT'er (Mobiel Medisch Team) gebruikt voertuigen als de Volvo, motor of Traumaheli. Deze medewerker biedt ter plaatse zorg voor letsel en lichte verwondingen. Voor ernstige wonden en groot letsel moet ook de MMT'er de persoon in het ziekenhuis behandelen.
 
-## De OVD-G.
-De OVD-G is het aanspreekpunt van iedereen in de porto, je wordt als ambulancier aangestuurd door de OVD-G en kan deze te allen tijde vragen stellen en om ondersteuning vragen, ook voor klachten over patiënten/collega’s kan je bij de OVD’er terecht.
+### De OVD-G
+De OVD-G is het aanspreekpunt via de porto. Als ambulancier word je aangestuurd door de OVD-G en kun je te allen tijde vragen stellen en om ondersteuning vragen. Ook voor klachten over patiënten/collega's kun je bij de OVD’er terecht.
 
 ## Commands
-
-==/eupambu==
-
-Dit commando opent het menu waarin je je werkkleding aan kan doen.
-
-
-==/med (id)==
-
-Dit commando laat zien hoeveel BPM een patiënt nog heeft.
-
-
-==/onderzoek (id)==
-
-Dit commando laat zien op welke manier de persoon buiten bewustzijn is geraakt.
-
-==/bodybag==
-
-Dit commando plaatst een overleden persoon in een lijkenzak.
-
-==/brancard==
-
-Dit commando haalt een brancard uit je ambulance indien je ernaast staat.
+- ==/eupambu==: Opent het menu om je werkkleding aan te doen.
+- ==/med (id)==: Toont de hartslag van een patiënt.
+- ==/onderzoek (id)==: Geeft informatie over hoe de persoon buiten bewustzijn is geraakt.
+- ==/bodybag==: Plaatst een overleden persoon in een lijkenzak.
+- ==/brancard==: Haalt een brancard uit je ambulance indien je ernaast staat.
 
 ## Porto
-Met /joinporto (nummer) kan je toetreden tot de gezamenlijke porto waarin je kan zien wat de statussen zijn van alle medewerkers.
+Met /joinporto (nummer) kun je toetreden tot de gezamenlijke porto en de statussen van alle medewerkers bekijken:
+
 - Status 1 – Beschikbaar
-
 - Status 2 – Aanrijdend
-
 - Status 3 – Op locatie
-
-- Status 4 – Niet Beschikbaar
-
+- Status 4 – Niet beschikbaar
 - Status 5 – Uitloggen uit de porto
-
 - Status 6 – Vraag aan OVD’er
-
 - Status 7 - Urgente vraag aan OVD’er
 
-## Keyboard binden
+## Keyboard Binden
+- Stap 1: Kijk welke toetsen niet worden gebruikt, zoals 6 tot 0, F12, i, o, j.
+- Stap 2: Druk op F8.
 
-Stap 1: Kijk welke spieren niet gebruikt worden bijvoorbeeld van 6 tot 0, F12, i, o, j
-Stap 2: F8 Spier indrukken
-
-Stap 3: 
-Bind keyboard 6 "me Pakt hartmonitor uit Ambulance" 
-
-Bind keyboard 7 "rdoors"
-
-Bind keyboard 8 "do Verbind hartmonitor aan patient"
-
-Bind keyboard 9 "e monteur"
-
-Bind keyboard 0 "do Plaatst drukverband op wond"
-
----------------------
-
-*Dit boek is ontwikkeld door [15-04] Niels S., in samenwerking met Ambulance Directie en [10-12] Jeffrey L.*
+- Stap 3:
+    * Bind keyboard 6 "Pakt hartmonitor uit ambulance."
+    * Bind keyboard 7 "Rijdt deuren open."
+    * Bind keyboard 8 "Verbindt hartmonitor aan patiënt."
+    * Bind keyboard 9 "Roep monteur op."
+    * Bind keyboard 0 "Plaatst drukverband op wond."
+------------
+*Dit boek is ontwikkeld door [15-04 - ✦✦ ] Niels S., in samenwerking met Ambulance Directie en [10-12 - 𓆩𓆪 ] Jeffrey L.*
