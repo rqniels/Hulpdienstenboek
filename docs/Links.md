@@ -19,9 +19,9 @@ Als jij de IO examen niet hebt, kun je vanaf rang 2 geen promotie meer krijgen.
     2.Goede roepnummer
 
     3.Alleen maken als jij rang 2 bent. 
-[IO Examen][example] Succes
+[IO Examen][example2] Succes
 
-  [example]: https://forms.gle/Ej4sWkTFZZd2QiDa6 "Examen"
+  [example2]: https://forms.gle/Ej4sWkTFZZd2QiDa6 "Examen"
 
     
 ## Geslaagde IO Mensen

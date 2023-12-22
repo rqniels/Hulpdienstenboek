@@ -24,8 +24,7 @@ Bij een overtreding van de regel wordt de overtreder bestraft met een bestraffin
 Vul altijd je uren in als je indienst bent geweest.
 Bij een overtreding van de regel wordt de overtreder bestraft met een bestraffing van de 4e categorie.
 ### Factuur sturen 
-Stuur tenalle tijden een factuur naar de persoon. Behalve als de persoon werkzaam is voor Politie of ANWB dan krijgt die krijgen geen factuur. 
-Bij een overtreding van de regel wordt de overtreder bestraft met een bestraffing van de 2e categorie.
+Stuur altijd een factuur naar de betrokken persoon, met uitzondering van diegenen die werkzaam zijn bij de politie of ANWB; zij zijn vrijgesteld van facturering. Overtreding van deze regel resulteert in een bestraffing van de 2e categorie.
 ### Verkeer regels 
 Rij gewoon netjes is de stad ook als je met prio 1 rijd. 
 Bij een overtreding van de regel wordt de overtreder bestraft met een bestraffing van de 2e categorie.
@@ -56,7 +55,7 @@ Dus als je in dienst gaat en er is nog niemand in dienst ga je in een sprinter r
 ander voertuig. Als er iemand bij komt, mag je overleggen wie de Sprinter overneemt. 
 Bij een overtreding van de regel wordt de overtreder bestraft met een bestraffing van de 1e categorie.
 ### Afwezig maar indienst
-Stel voor je moet even weg maar je blijft wel in de stad in dienst. Is dat geen probleem als het maar niet langer dan 10 min is. Zorg er ook voor dat je het even vermeld aan je andere collega;s en voor je naam in de discord het even zet. Ben je langer dan 10 min afwezig en of je niet afgemeld. De overtreding van de regel wordt de overtreder bestraft met een bestraffing van de 4e categorie.
+Stel voor je moet even weg maar je blijft wel in de stad in dienst. Is dat geen probleem als het maar niet langer dan 5 min is. Zorg er ook voor dat je het even vermeld aan je andere collega;s en voor je naam in de discord het even zet. Ben je langer dan 10 min afwezig en of je niet afgemeld. De overtreding van de regel wordt de overtreder bestraft met een bestraffing van de 4e categorie.
 
 !!! failure " Let op "
     De straffen staan hier. Als er straffen hier niet in staan betekent niet dat die er niet zijn
