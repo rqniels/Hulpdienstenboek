@@ -20,33 +20,59 @@ Hier kan je alle rangen vinden en wat er wordt verwacht per rang.
 | 15   | Ambulance Teamleider | € 2900,- | 
 | 16   | Ambulance baas | € 3000,- | 
 
-## Wat heb ik nodig voor promotie
-Rang 1 --> 2 minimaal 10 uur in dienst zijn geweest.
 
-Rang 2 --> 3 minimaal 10 uur in dienst zijn geweest en je hebt je IO examen met een voldoende afgerond.
+# Personeel en Trainingsoverzicht
+## Ondersteunend Personeel
+- **Rang:** Ondersteunend Personeel
+- **Training:** Basis training
 
-Rang 3 --> 4 minimaal 8 uur in dienst zijn geweest en je hebt minimaal 1 specialisatie gedaan.
+## In opleiding
+- **Rang:** In opleiding
+- **Training:** Sprinter
 
-Rang 4 --> 5 minimaal 8 uur in dienst zijn geweest, minimaal 5 specialisaties gedaan.
+## Chauffeur
+- **Rang:** Chauffeur
+- **Training:** Vw Crafter
 
-Rang 5 --> 6 minimaal 8 uur in dienst zijn geweest, minimaal 8 specialisaties gedaan. 
+## Broeder
+- **Rang:** Broeder
+- **Training:** IO Examen
 
-Rang 6 --> 7 minimaal 8 uur in dienst zijn geweest, alle specialisaties gedaan.
+## Assistent Verpleegkundige
+- **Rang:** Assistent Verpleegkundige
+- **Training:** MMT Verpleegkundige
+- **Training:** Seat Ateca
 
-Rang 7 --> 8 minimaal 8 uur in dienst zijn geweest en je hebt minimaal 2 intake gesprekken gevoerd. 
+## Verpleegkundige
+- **Rang:** Verpleegkundige
+- **Training:** Volvo
+- **Training:** Volkswagen Touareg
 
-Rang 8 --> 9 minimaal 8 uur in dienst zijn geweest en je hebt minimaal 3 intakes + operatie formulieren nagekeken.
+## Specialist
+- **Rang:** Specialist
+- **Training:** Audi Q7
+- **Training:** Mercedes GLE
+- **Training:** OVD-G
 
-Rang 9 --> 10 minimaal 6 uur in dienst zijn geweest en je hebt minimaal 2 basis trainingen gedaan / meegeholpen.
+## Arts
+- **Rang:** Arts
+- **Training:** MMT Arts
+- **Training:** Transplantatie Training
 
-Rang 10 --> 11 minimaal 4 uur in dienst zijn geweest en je hebt minimaal 2 specialisaties trainingen gegeven. 
+## Chirurg
+- **Rang:** Chirurg
+- **Training:** Lifeliner Piloot
 
-Rang 11 --> 12 minimaal 4 uur in dienst zijn geweest en je hebt minimaal 2 specialisaties trainingen gegeven.
+## Assistent Geneeskundige
+- **Rang:** Assistent Geneeskundige
+- **Training:** Audi A6
 
-Rang 13 t/m 15 word je voor uitgeloot als er mensen nodig zijn voor die posities. 
+## Geneeskundige
+- **Rang:** Geneeskundige
+- **Info:** Je hebt alles behaald, gefeliciteerd!
 
 !!! attention "LET OP"
-    Je loon kan te allen tijde worden herzien.
+    Salarisveranderingen kunnen op elk moment plaatsvinden, afhankelijk van diverse factoren.
 
 ---------------------
 
