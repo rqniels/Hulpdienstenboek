@@ -59,7 +59,7 @@ Met /joinporto (nummer) kun je toetreden tot de gezamenlijke porto en de statuss
     * Bind keyboard 6 "do Pakt hartmonitor uit ambulance."
     * Bind keyboard 7 "rdoors."
     * Bind keyboard 8 "do Verbind hartmonitor aan patiënt."
-    * Bind keyboard 9 "e monteur."
+    * Bind keyboard 9 "e monteur"
     * Bind keyboard 0 "do Plaatst drukverband op wond."
 ------------
 *Dit boek is ontwikkeld door [15-04 - ✦✦ ] Niels S., in samenwerking met Ambulance Directie en [10-12 - 𓆩𓆪 ] Jeffrey L.*
