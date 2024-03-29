@@ -1,4 +1,4 @@
-# Update's
+# Updates
 
 ## Ingame Ambulance
 - [ ] Meldingnummers toevoegen in de ambulance meldkamer
