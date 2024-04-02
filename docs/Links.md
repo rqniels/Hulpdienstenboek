@@ -35,7 +35,7 @@ Als jij de IO examen niet hebt, kun je vanaf rang 2 geen promotie meer krijgen.
 | [20-621] | 75 |
 | [20-708] | 75 |
 | [20-803] | 96 |
-| [20-804] | 98 |
+| [20-804] | 98 |0300
 | [20-901] | 98 |
 
 
