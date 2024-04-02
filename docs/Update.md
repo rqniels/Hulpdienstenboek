@@ -15,7 +15,7 @@
 ## Hulpdienstenboek
 - [x] IO Geslaagde in het boekje maken
 - [x] Spelling fouten verbeteren
-- [ ] MMT Voertuigen
+- [x] MMT Voertuigen
 
 ---------------------
 
