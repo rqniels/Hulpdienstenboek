@@ -5,7 +5,7 @@
 - [x] Onderzoek script nakijken
 - [x] Zorgverzekering prijs verhogen naar €300,-
 - [x] Kloterstraf ook voor ambulance beschikbaar maken. (Wel vanaf de wat hogere rangen)
-    * [x] Vanaf Rang 3
+    * [x] Vanaf Rang yeamleider
 - [ ] Cooldown na het reanimeren zodat personen niet meteen weg kunnen rennen
 - [x] Meer rangen toevoegen
 ## Discord
@@ -19,4 +19,4 @@
 
 ---------------------
 
-*Dit boek is ontwikkeld door [15-04 - ✦✦ ] Niels S., in samenwerking met Ambulance Directie en [10-12 - 𓆩𓆪 ] Jeffrey L.*
+*Dit boek is ontwikkeld door Politie Overheidscoordinator Niels Smit, in samenwerking met Jeffrey L.*

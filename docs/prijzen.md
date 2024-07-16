@@ -14,4 +14,4 @@ De ambulance hanteert een gedetailleerde tariefstructuur voor een breed scala aa
 | Psychologische hulp          | € 2.500,-       | € 5000,-          |
 ---------------------
 
-*Dit boek is ontwikkeld door [15-04 - ✦✦ ] Niels S., in samenwerking met Ambulance Directie en [10-12 - 𓆩𓆪 ] Jeffrey L.*
+*Dit boek is ontwikkeld door Politie Overheidscoordinator Niels Smit, in samenwerking met Jeffrey L.*

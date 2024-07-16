@@ -16,3 +16,6 @@ Binnen het ambulance team beschikken we over diverse voertuigen die je mag bestu
 ![A](img/volvo.png)
  Updete volgt 
  
+---------------------
+
+ *Dit boek is ontwikkeld door Politie Overheidscoordinator Niels Smit, in samenwerking met Jeffrey L.*

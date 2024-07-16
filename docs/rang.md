@@ -76,4 +76,4 @@ Hier kan je alle rangen vinden en wat er wordt verwacht per rang.
 
 ---------------------
 
-*Dit boek is ontwikkeld door [15-04 - ✦✦ ] Niels S., in samenwerking met Ambulance Directie en [10-12 - 𓆩𓆪 ] Jeffrey L.*
+*Dit boek is ontwikkeld door Politie Overheidscoordinator Niels Smit, in samenwerking met Jeffrey L.*

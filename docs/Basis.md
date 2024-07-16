@@ -62,4 +62,4 @@ Met /joinporto (nummer) kun je toetreden tot de gezamenlijke porto en de statuss
     * Bind keyboard 9 "do Verbind hartmonitor aan patient"
     * Bind keyboard 0 "do Plaatst drukverband op wond"
 ------------
-*Dit boek is ontwikkeld door [15-04 - ✦✦ ] Niels S., in samenwerking met Ambulance Directie en [10-12 - 𓆩𓆪 ] Jeffrey L.*
+*Dit boek is ontwikkeld door Politie Overheidscoordinator Niels Smit, in samenwerking met Jeffrey L.*
