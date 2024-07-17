@@ -12,6 +12,7 @@ De ambulance hanteert een gedetailleerde tariefstructuur voor een breed scala aa
 | Reanimeren met ziekenhuisbehandeling/Operatie | € 2500,- | € 5000,-       |
 | Ziekenhuisbehandeling/Operatie zonder reanimatie | € 1500,- | € 3000,-     |
 | Psychologische hulp          | € 2.500,-       | € 5000,-          |
+
 ---------------------
 
 *Dit boek is ontwikkeld door Politie Overheidscoordinator Niels Smit, in samenwerking met Jeffrey L.*

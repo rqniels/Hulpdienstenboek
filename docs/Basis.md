@@ -3,14 +3,7 @@
 **Welkom bij het Ambulanceteam van Realistiq RP.** Dit handboek is met zorg samengesteld voor de gewaardeerde medewerkers van ons team, zodat jullie je kunnen verdiepen in de taken en verantwoordelijkheden binnen de ambulance.
 
 ## Rol van het Ambulanceteam
-Als toegewijd ambulancewerker betreed je het veld om gewonden te helpen en medische zorg te verlenen. Via het meldingssysteem op je telefoon ontvang je opdrachten; zorg ervoor dat je te allen tijde een telefoon bij je draagt wanneer je dienst hebt. Op locatie maak je jezelf bekend als lid van het ambulancepersoneel en start je met de benodigde behandelingen via ons F6-menu, waaronder:
-
-- Interacties
-    *  Reanimeren
-    * Kleine behandeling
-    *  Grote behandeling
-- Zorgverzekering
-- Objecten spawnen
+Als toegewijd ambulancewerker betreed je het veld om gewonden te helpen en medische zorg te verlenen. Via het meldingssysteem op je telefoon ontvang je opdrachten; zorg ervoor dat je te allen tijde een telefoon bij je draagt wanneer je dienst hebt. Op locatie maak je jezelf bekend als lid van het ambulancepersoneel en start je met de benodigde behandelingen via ons oogje.
 
 Bij bewusteloze patiënten dien je eerst de hartmonitor uit je ambulancepak te halen en deze aan de patiënt te koppelen. Pas als de hartslag boven de 6 BPM is, start je met reanimeren.
 

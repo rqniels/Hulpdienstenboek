@@ -22,52 +22,52 @@ Hier kan je alle rangen vinden en wat er wordt verwacht per rang.
 
 
 # Personeel en Trainingsoverzicht
-## Ondersteunend Personeel
+## Ondersteunend Personeel [ 20-XX - ❯ ]
 - **Rang:** Ondersteunend Personeel
 - **Training:** Basis training
 
-## In opleiding
+## In opleiding [ 20-XX - ❯❯ ]
 - **Rang:** In opleiding
 - **Training:** Sprinter
 
-## Chauffeur
+## Chauffeur [ 20-XX - ❯❯❯ ]
 - **Rang:** Chauffeur
 - **Training:** Vw Crafter
 
-## Broeder
+## Broeder [ 20-XX - ᳂ ]
 - **Rang:** Broeder
 - **Training:** IO Examen
 
-## Assistent Verpleegkundige
+## Assistent Verpleegkundige [ 20-XX - ᳂ ]
 - **Rang:** Assistent Verpleegkundige
 - **Training:** MMT Verpleegkundige
 - **Training:** Seat Ateca
 
-## Verpleegkundige
+## Verpleegkundige [ 20-XX - ❁ ]
 - **Rang:** Verpleegkundige
 - **Training:** Volvo
 - **Training:** Volkswagen Touareg
 
-## Specialist
+## Specialist [ 20-XX - ⚕ ]
 - **Rang:** Specialist
 - **Training:** Audi Q7
 - **Training:** Mercedes GLE
 - **Training:** OVD-G
 
-## Arts
+## Arts [ 20-XX - ঌ ] 
 - **Rang:** Arts
 - **Training:** MMT Arts
 - **Training:** Transplantatie Training
 
-## Chirurg
+## Chirurg [ 20-XX - ঌ✦໒ ] 
 - **Rang:** Chirurg
 - **Training:** Lifeliner Piloot
 
-## Assistent Geneeskundige
+## Assistent Geneeskundige [ 20-XX - 𓆩𓆪 ]
 - **Rang:** Assistent Geneeskundige
 - **Training:** Audi A6
 
-## Geneeskundige
+## Geneeskundige [ 20-XX - 𓆩✧𓆪 ]
 - **Rang:** Geneeskundige
 - **Info:** Je hebt alles behaald, gefeliciteerd!
 

@@ -24,10 +24,6 @@ Overtreding van deze regel resulteert in een bestraffing van de 1e categorie.
 Altijd de porto gebruiken wanneer je in dienst bent.
 Overtreding van deze regel resulteert in een bestraffing van de 1e categorie.
 
-### Uren invullen
-Altijd je uren invullen als je in dienst bent geweest.
-Overtreding van deze regel resulteert in een bestraffing van de 4e categorie.
-
 ### Factuur sturen
 Altijd een factuur sturen naar de betrokken persoon, behalve voor degenen werkzaam bij de politie of ANWB; zij zijn vrijgesteld van facturering. Overtreding van deze regel resulteert in een bestraffing van de 2e categorie.
 
@@ -48,7 +44,7 @@ Zorg altijd voor goede roleplay, zelfs als de situatie out-of-character is. Blij
 Overtreding van deze regel resulteert in een bestraffing van de 3e categorie.
 
 ### Crimineel zijn
-Binnen de ambulance mag je tot en met rang 3 crimineel zijn, maar alleen als je uit dienst bent.
+Binnen de ambulance mag je tot en met rang 7 crimineel zijn, maar alleen als je uit dienst bent.
 Overtreding van deze regel resulteert in een bestraffing van de 5e categorie.
 
 ### Gokken
@@ -75,5 +71,7 @@ Als je even weg moet maar in de stad blijft en in dienst bent, is dat geen probl
 
 # Landen lifeliner
 ![Kaart met risicogebieden](img/restricted_airspace.jpg)
+
+---------------------
 
 *Dit boek is ontwikkeld door Politie Overheidscoordinator Niels Smit, in samenwerking met Jeffrey L.*
