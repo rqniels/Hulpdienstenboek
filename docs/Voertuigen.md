@@ -18,4 +18,4 @@ Binnen het ambulance team beschikken we over diverse voertuigen die je mag bestu
  
 ---------------------
 
- *Dit boek is ontwikkeld door Politie Overheidscoordinator Niels Smit, in samenwerking met Jeffrey L.*
+ *Dit boek is ontwikkeld door AMBU/ANWB Overheidscoordinator Niels Smit, in samenwerking met Jeffrey L.*

@@ -28,8 +28,8 @@ De OVD-G is het aanspreekpunt via de porto. Als ambulancier word je aangestuurd 
 
 ## Commands
 - ==/eupambu==: Opent het menu om je werkkleding aan te doen.
-- ==/med (id)==: Toont de hartslag van een patiënt.
-- ==/onderzoek (id)==: Geeft informatie over hoe de persoon buiten bewustzijn is geraakt.
+- ==3e oog/hartslag==: Toont de hartslag van een patiënt.
+- ==3e oog/onderzoek==: Geeft informatie over hoe de persoon buiten bewustzijn is geraakt.
 - ==/bodybag==: Plaatst een overleden persoon in een lijkenzak.
 - ==/brancard==: Haalt een brancard uit je ambulance indien je ernaast staat.
 
@@ -55,4 +55,4 @@ Met /joinporto (nummer) kun je toetreden tot de gezamenlijke porto en de statuss
     * Bind keyboard 9 "do Verbind hartmonitor aan patient"
     * Bind keyboard 0 "do Plaatst drukverband op wond"
 ------------
-*Dit boek is ontwikkeld door Politie Overheidscoordinator Niels Smit, in samenwerking met Jeffrey L.*
+*Dit boek is ontwikkeld door AMBU/ANWB Overheidscoordinator Niels Smit, in samenwerking met Jeffrey L.*

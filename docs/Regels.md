@@ -74,4 +74,4 @@ Als je even weg moet maar in de stad blijft en in dienst bent, is dat geen probl
 
 ---------------------
 
-*Dit boek is ontwikkeld door Politie Overheidscoordinator Niels Smit, in samenwerking met Jeffrey L.*
+*Dit boek is ontwikkeld door AMBU/ANWB Overheidscoordinator Niels Smit, in samenwerking met Jeffrey L.*

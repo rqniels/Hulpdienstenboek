@@ -15,4 +15,4 @@ De ambulance hanteert een gedetailleerde tariefstructuur voor een breed scala aa
 
 ---------------------
 
-*Dit boek is ontwikkeld door Politie Overheidscoordinator Niels Smit, in samenwerking met Jeffrey L.*
+*Dit boek is ontwikkeld door AMBU/ANWB Overheidscoordinator Niels Smit, in samenwerking met Jeffrey L.*

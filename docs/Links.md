@@ -21,4 +21,4 @@ Als jij de IO examen niet hebt, kun je vanaf rang 2 geen promotie meer krijgen.
 
 ---------------------
 
-*Dit boek is ontwikkeld door Politie Overheidscoordinator Niels Smit, in samenwerking met Jeffrey L.*
+*Dit boek is ontwikkeld door AMBU/ANWB Overheidscoordinator Niels Smit, in samenwerking met Jeffrey L.*
