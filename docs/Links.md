@@ -4,8 +4,9 @@
 Om een promotie te krijgen naar de volgende rang chaffeur, moet je de IO toets behalen. Dit is om te kijken of jij er helemaal klaar voor bent! Als je de toets gemaakt hebt, kun je een hoofdtrainer of hoger een bericht sturen om jouw antwoorden na te kijken.
 
 Vereisten voor de promotie:
-* Rang in opleiding
-* Minimale eindscore van 75 punten
+
+- Rang in opleiding
+- Minimale eindscore van 75 punten
 
 voldoe je niet aan de vereisten maar heb je de toets wel gemaakt zal je een onvoldoende krijgen en hem opnieuw moeten maken
 !!! failure " Let op "
