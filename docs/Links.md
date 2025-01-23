@@ -1,10 +1,13 @@
-# Belangerijke links
+# IO Examen 
 
 ## IO Examen
-Sinds kort hebben wij de IO examens weer ingevoerd.
-Dit is een examen die jouw medische kennis gaat beoordelen.
-Het is verplicht om deze te maken als jij rang 2 of hoger bent.
-Als jij de IO examen niet hebt, kun je vanaf rang 2 geen promotie meer krijgen.
+Om een promotie te krijgen naar de volgende rang chaffeur, moet je de IO toets behalen. Dit is om te kijken of jij er helemaal klaar voor bent! Als je de toets gemaakt hebt, kun je een hoofdtrainer of hoger een bericht sturen om jouw antwoorden na te kijken.
+
+Vereisten voor de promotie:
+* Rang in opleiding
+* Minimale eindscore van 75 punten
+
+voldoe je niet aan de vereisten maar heb je de toets wel gemaakt zal je een onvoldoende krijgen en hem opnieuw moeten maken
 !!! failure " Let op "
     Zorg er voor dat je de volgende punten goed hebt. 
 
