@@ -64,7 +64,7 @@ Er moet minimaal 1 sprinter in de stad aanwezig zijn. Als je in dienst gaat en e
 Overtreding van deze regel resulteert in een bestraffing van de 1e categorie.
 
 ### Afwezig maar in dienst
-Als je even weg moet maar in de stad blijft en in dienst bent, is dat geen probleem, maar het mag niet langer dan 5 minuten duren. Zorg ervoor dat je het meldt aan je andere collega's en je naam in de Discord zet. Ben je langer dan 10 minuten afwezig en niet afgemeld, dan resulteert dit in een bestraffing van de 4e categorie.
+Als je even weg moet maar in de stad blijft en in dienst bent, is dat geen probleem, maar het mag niet langer dan 10 minuten duren. Zorg ervoor dat je het meldt aan je andere collega's en je naam in de Discord zet. Ben je langer dan 10 minuten afwezig en niet afgemeld, dan resulteert dit in een bestraffing van de 4e categorie.
 
 !!! failure "Let op"
     De straffen staan hier. Als er straffen hier niet instaan, betekent dat niet dat ze niet bestaan.
