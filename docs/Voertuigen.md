@@ -8,11 +8,11 @@
         🚧🚧🚧🚧🚧🚧🚧🚧
         Update komt nog
 
-![Jogger Mini](img/joggermini.png)
-![Jogger](img/jogger.png)
-![Kubus](img/kubus.png)
-![Raptor](img/raptor.png)
-![Trust](img/trust.png)
+![Jogger Mini](img/JoggerMini.png)
+![Jogger](img/Jogger.png)
+![Kubus](img/Kubus.png)
+![Raptor](img/Raptor.png)
+![Trust](img/Trust.png)
 
 
  
