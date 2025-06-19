@@ -6,9 +6,16 @@
     !!! note "constructie "
 
         🚧🚧🚧🚧🚧🚧🚧🚧
+        Update komt nog
+
+![Jogger Mini](img/joggermini.png)
+![Jogger](img/jogger.png)
+![Kubus](img/kubus.png)
+![Raptor](img/raptor.png)
+![Trust](img/trust.png)
 
 
- Update volgt 
+ 
  
 ---------------------
 
